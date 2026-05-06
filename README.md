@@ -1,1 +1,0 @@
-# BQ_project_settings
